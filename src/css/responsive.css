@@ -1,0 +1,17 @@
+@media (max-width: 900px) {
+    body {
+        height: 100%;
+        width: 100%;
+    }
+
+    .main {
+        grid-template-columns: 1fr;
+        padding: 10%;
+        gap: 2.5rem;
+        height: auto;
+    }
+
+    .plan {
+        border-radius: 10px;
+    }
+}
